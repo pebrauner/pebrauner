@@ -10,3 +10,4 @@ Content and creative strategist in esports and gaming, based in Lima. I build my
 - **[mapa-tiendas](https://github.com/pebrauner/mapa-tiendas)**: a database of retail stores in Peru and a map generator for presentations.
 
 More about my work at [pedrobrauner.com](https://pedrobrauner.com).
+
